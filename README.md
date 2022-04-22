@@ -1,5 +1,5 @@
 # Photography_Site
-     would like to share with you my passion for photography ,This is a simple one page photography website.On this website, you will get to know a bit about the Fashion.So! Hope you will enjoy my very first webpage and see my passion the way I see it.
+    I would like to share with you my passion for photography ,This is a simple one page photography website.On this website, you will get to know a bit about the Fashion.So! Hope you will enjoy my very first webpage and see my passion the way I see it.
     
 # output
 ![Screenshot (689)](https://user-images.githubusercontent.com/96867756/164764997-ad825d69-32f5-4f04-82f5-b46c6962a40a.png)
