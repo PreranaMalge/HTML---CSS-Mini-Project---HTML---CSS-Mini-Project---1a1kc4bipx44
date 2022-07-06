@@ -1,4 +1,4 @@
-# Photography_Site
+# Photography_Website
     I would like to share with you my passion for photography ,This is a simple one page photography website.On this website, you will get to know a bit about the Fashion.So! Hope you will enjoy my very first webpage and see my passion the way I see it.
     
 # output
